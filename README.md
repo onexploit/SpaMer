@@ -1,6 +1,7 @@
 # SpaMer
-Hello world, we are onexploit.
-This is a spammer tool. When you type on anything, the tool itself types and sends the message based on the message you gave it.
+- Hello world, we are onexploit.
+- This is a spammer tool. When you type on anything, the tool itself types and sends the message based on the message you gave it.
+- There is also an exe file and a script.
 
 # toturial
 First, type and save the message you want in the message program and run the program.
